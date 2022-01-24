@@ -20,5 +20,14 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Images
 
+### Big Screen
+
 ![Main Screen](./assets/bigscreen.png)
 .
+### Mid Screen
+
+![Secondry Screen](./assets/midscreen.png)
+
+### Small Screen
+
+![Small Screen](./assets/smallscreen.png)
